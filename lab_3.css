@@ -1,0 +1,52 @@
+body {
+  font-family: Arial;
+  background: #FFFFFF;
+  text-align: center;
+}
+
+header {
+  padding: 30px;
+  text-align: center;
+  background: green;
+}
+
+nav {
+  text-align: center;
+  background: #808080;
+  margin: 15px;
+}
+
+.menu{
+  background-color: red;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 15px;
+}
+
+.achievement {
+  background-color: pink;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 15px;
+}
+
+.aboutMe {
+  background-color: #C4A484;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 15px;
+}
+
+footer {
+  padding: 15px;
+  text-align: center;
+  background: orange;
+    margin: 15px;
+
+}
